@@ -1,6 +1,6 @@
-# 📩 Spam Classifier - Naive Bayes
+# 📩 Clasificador de Spam - Naive Bayes
 
-Este proyecto implementa un **clasificador de mensajes SMS como Spam o Ham** utilizando **Machine Learning** con **Multinomial Naive Bayes** y **TF-IDF**.  
+Este proyecto implementa un **clasificador de mensajes como Spam o Ham** utilizando **Machine Learning** con **Multinomial Naive Bayes** y **TF-IDF**.  
 Además, incluye un **dashboard interactivo en Streamlit** para probar mensajes en tiempo real y visualizar métricas y nubes de palabras.
 
 ---
